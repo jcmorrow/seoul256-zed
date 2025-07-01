@@ -1,0 +1,7 @@
+name = "seoul256 theme"
+version = "0.0.1"
+authors = ["Josh Morrow <josh@jcmorrow.com>"]
+description = "A port of the seoul256 color scheme"
+repository = "https://github.com/jcmorrow/seoul256-zed"
+id = "seoul256"
+schema_version = 1
